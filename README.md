@@ -13,7 +13,7 @@
 安装：
 
 ``` shell
-npm install @step/wepy-com-toast --save
+npm install @skit/wepy-com-toast --save
 ```
 
 导入：
@@ -24,7 +24,7 @@ npm install @step/wepy-com-toast --save
 </template>
 <script>
     import wepy from 'wepy';
-    import UIToast from '@step/wepy-com-toast';
+    import UIToast from '@skit/wepy-com-toast';
 
     export default class DemoPage extends wepy.page {
         components = {
